@@ -26,6 +26,10 @@ source devel/setup.bash
 4. Run the Code:
    
 To run any specific file according to your requirement, use the following command:
+
+https://github.com/karansspk462000/Planning-and-Control-of-Turtlebot3-with-Open-Manipulator-X-and-Camera./assets/153458591/fae4671c-745d-42ab-ab2f-98a2161eed43
+
+
 ```
 rosrun exp_rob your_file.py
 ```
@@ -40,4 +44,3 @@ For instance, if you want to run a file named example_node.py, you would use the
 ```
 rosrun exp_rob example_node.py
 ```
-![Turtlebot3](https://github.com/karansspk462000/Planning-and-Control-of-Turtlebot3-with-Open-Manipulator-X-and-Camera./blob/main/Open_manipulator_trajectory.mp4)
