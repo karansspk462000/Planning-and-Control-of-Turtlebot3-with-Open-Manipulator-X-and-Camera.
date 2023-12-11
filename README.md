@@ -40,4 +40,4 @@ For instance, if you want to run a file named example_node.py, you would use the
 ```
 rosrun exp_rob example_node.py
 ```
-![Turtlebot3](video_url)
+![Turtlebot3](https://github.com/karansspk462000/Planning-and-Control-of-Turtlebot3-with-Open-Manipulator-X-and-Camera./blob/main/Open_manipulator_trajectory.mp4)
