@@ -42,3 +42,4 @@ rosrun exp_rob example_node.py
 ```
 ## 7. Results
 ![Image](Open_Manipulator.gif)
+![Image1](Mobile_Base_Control.gif)
