@@ -34,7 +34,8 @@ rosrun exp_rob your_file.py
    
 Documentation for each code file is provided. For detailed explanations and usage instructions, refer to the documentation.
 
-Example
+6. Example:
+   
 For instance, if you want to run a file named example_node.py, you would use the following command:
 ```
 rosrun exp_rob example_node.py
