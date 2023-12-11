@@ -6,14 +6,15 @@ To get started, clone this repository to your local machine using the following 
 ```
 git clone https://github.com/your-username/exp_rob.git
 ```
-2.Build the Project
+
+2. Build the Project
 Once you have cloned the repository, navigate to the project's root directory and build the project:
 ```
 cd exp_rob
 catkin_make
 ```
 
-3.Source the Project
+3. Source the Project
 After successfully building the project, source the setup file:
 ```
 source devel/setup.bash
