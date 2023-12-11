@@ -45,4 +45,4 @@ For instance, if you want to run a file named example_node.py, you would use the
 rosrun exp_rob example_node.py
 ```
 ## 7. Results
-![Animated Image](Implementation_demo.gif)
+![Animated Image](Open_Maniplator.gif)
