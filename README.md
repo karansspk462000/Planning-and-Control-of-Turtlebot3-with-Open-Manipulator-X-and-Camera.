@@ -23,16 +23,6 @@ After successfully building the project, source the setup file:
 source devel/setup.bash
 ```
 
-## 4. Run the Code:
-   
-To run any specific file according to your requirement, use the following command:
-
-https://github.com/karansspk462000/Planning-and-Control-of-Turtlebot3-with-Open-Manipulator-X-and-Camera./assets/153458591/fae4671c-745d-42ab-ab2f-98a2161eed43
-
-
-```
-rosrun exp_rob your_file.py
-```
 
 ## 5. Documentation:
    
