@@ -32,7 +32,7 @@ rosrun exp_rob your_file.py
 
 ## 5. Documentation:
    
-Documentation for each code file is provided. For detailed explanations and usage instructions, refer to the documentation.
+Documentation for each code file is provided in pdf Exp_Rob. For detailed explanations and usage instructions, refer to the documentation.
 
 ## 6. Example:
    
