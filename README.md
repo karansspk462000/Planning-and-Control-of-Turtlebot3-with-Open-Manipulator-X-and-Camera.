@@ -8,20 +8,28 @@ git clone https://github.com/your-username/exp_rob.git
 ```
 2.Build the Project
 Once you have cloned the repository, navigate to the project's root directory and build the project:
+```
 cd exp_rob
 catkin_make
+```
 
 3.Source the Project
 After successfully building the project, source the setup file:
+```
 source devel/setup.bash
+```
 
 4. Run the Code
 To run any specific file according to your requirement, use the following command:
+```
 rosrun exp_rob your_file.py
+```
 
 5. Documentation
 Documentation for each code file is provided. For detailed explanations and usage instructions, refer to the documentation.
 
 Example
 For instance, if you want to run a file named example_node.py, you would use the following command:
+```
 rosrun exp_rob example_node.py
+```
