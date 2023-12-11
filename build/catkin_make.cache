@@ -1,0 +1,2 @@
+exp_rob
+-DCATKIN_DEVEL_PREFIX=/home/pc/Exp Robotics/devel -DCMAKE_INSTALL_PREFIX=/home/pc/Exp Robotics/install -G Unix Makefiles
