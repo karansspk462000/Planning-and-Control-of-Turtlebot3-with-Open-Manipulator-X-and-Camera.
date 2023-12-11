@@ -23,6 +23,12 @@ After successfully building the project, source the setup file:
 source devel/setup.bash
 ```
 
+## 4. Run the Code
+
+To run any specific file according to your requirement, use the following command:
+```
+rosrun exp_rob your_file.py
+```
 
 ## 5. Documentation:
    
